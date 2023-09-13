@@ -7,5 +7,4 @@ The more scattered the clusters are, the smaller the similarity correlation betw
 
 <img width="866" alt="Screen Shot 2023-09-13 at 8 45 11 AM" src="https://github.com/norahty/face_similarity_detection/assets/94091909/8f631f3d-b2e3-4a0f-99ba-6694badbd0d0">
 <img width="277" alt="Screen Shot 2023-09-13 at 8 46 34 AM" src="https://github.com/norahty/face_similarity_detection/assets/94091909/9b6dca04-fa2f-484c-b23f-e1ef3964bc43">
-
 <img width="286" alt="Screen Shot 2023-09-13 at 8 49 21 AM" src="https://github.com/norahty/face_similarity_detection/assets/94091909/233193fe-509a-466f-a372-4fa7b46f0b6a">
