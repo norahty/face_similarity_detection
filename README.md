@@ -38,6 +38,9 @@ One particularly interesting observation is that most of the paintings we examin
 <img width="915" alt="Screen Shot 2023-09-13 at 8 54 39 AM" src="https://github.com/norahty/face_similarity_detection/assets/94091909/1c8acea8-3480-4430-a94a-c7d312478407">
 Run all the code in the copied file and change perplexity (grid [20]), artists(grid [7]) as you like to see different results
 
-<img width="915" alt="Screen Shot 2023-09-13 at 8 54 51 AM" src="https://github.com/norahty/face_similarity_detection/assets/94091909/493d688c-a41a-4a99-a4c9-43b2d9e0dffe">
-<img width="915" alt="Screen Shot 2023-09-13 at 8 55 05 AM" src="https://github.com/norahty/face_similarity_detection/assets/94091909/b12d30b2-ea51-4f1f-8a23-ef20e9b04a06">
+# What to do next:
+We want to try distinguishing different faces of the paintings using machine learning methods
+We are planning on starting by dividing each dataset at a 8:2 ratio as for training and testing in our implementation for the second stream of our implementation.
+We will select facial features from the dataset, determine importance of each feature, learning similarities between portrait pairs and compare the result after training
+
 
