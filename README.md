@@ -35,9 +35,11 @@ One particularly interesting observation is that most of the paintings we examin
 <img width="915" alt="Screen Shot 2023-09-13 at 8 53 57 AM" src="https://github.com/norahty/face_similarity_detection/assets/94091909/7d7443bc-06d1-465b-895d-02d8c0b89633">
 <img width="915" alt="Screen Shot 2023-09-13 at 8 54 10 AM" src="https://github.com/norahty/face_similarity_detection/assets/94091909/11c64524-1948-425d-8421-2e2886c341c4">
 <img width="915" alt="Screen Shot 2023-09-13 at 8 54 39 AM" src="https://github.com/norahty/face_similarity_detection/assets/94091909/1c8acea8-3480-4430-a94a-c7d312478407">
+
+
 Run all the code in the copied file and change perplexity (grid [20]), artists(grid [7]) as you like to see different results
 
-**Usage**
+# Usage
 
 This face recognition project utilizes t-SNE (t-Distributed Stochastic Neighbor Embedding) to create plots of faces from paintings, leveraging face recognition software. The primary objective is to analyze and visualize different clusters of facial data based on artists' styles. This project evaluates the clustering of facial data using t-SNE plots with specific correlation metrics:
 
