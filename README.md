@@ -1,9 +1,10 @@
 # face_similarity_detection
-<img width="924" alt="Screen Shot 2023-09-13 at 8 48 47 AM" src="https://github.com/norahty/face_similarity_detection/assets/94091909/122585bf-fdf4-4455-9b1c-bedac57bbfce">
 
 This project uses t-SNE to plot faces of paintings using face recognition software
 We are expecting the t-SNE plot our algorithm is creating to show different clusters of facial data analysis for artists with different styles with the following evaluation matrices:
 The more scattered the clusters are, the smaller the similarity correlation between the compared clusters is. The more united one specific cluster is, the higher the similarity correlation within this one cluster is.
+
+<img width="924" alt="Screen Shot 2023-09-13 at 8 48 47 AM" src="https://github.com/norahty/face_similarity_detection/assets/94091909/122585bf-fdf4-4455-9b1c-bedac57bbfce">
 
 # To run this project on google colab: [https://drive.google.com/drive/folders/1-yMU9guWl4pLbCeqsbxAZKSxJJXIm5Gq?usp=drive_link](https://drive.google.com/drive/folders/1-yMU9guWl4pLbCeqsbxAZKSxJJXIm5Gq?usp=share_link)
 
