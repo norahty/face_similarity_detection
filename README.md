@@ -27,7 +27,6 @@ In contrast to Botero and Kahlo, the majority of the other artists in the datase
 This observation holds unless an artist intentionally deviates from creating highly realistic portraits or opts for a more diverse or unconventional choice of subject matter compared to prevailing artistic norms of the past.
 
 One particularly interesting observation is that most of the paintings we examined did not coincide with a small cluster of natural faces. This intriguing phenomenon could potentially offer valuable insights into the distinct artistic styles employed by the selected artists.
-<img width="915" alt="Screen Shot 2023-09-13 at 9 03 31 AM" src="https://github.com/norahty/face_similarity_detection/assets/94091909/ee977ba3-813f-4b13-8916-e3d92cc78ffc">
 
 <img width="277" alt="Screen Shot 2023-09-13 at 8 46 34 AM" src="https://github.com/norahty/face_similarity_detection/assets/94091909/9b6dca04-fa2f-484c-b23f-e1ef3964bc43">
 <img width="286" alt="Screen Shot 2023-09-13 at 8 49 21 AM" src="https://github.com/norahty/face_similarity_detection/assets/94091909/233193fe-509a-466f-a372-4fa7b46f0b6a">
