@@ -1,5 +1,5 @@
-# face_similarity_detection
-## This project uses t-SNE to plot faces of paintings using face recognition software
+# face_similarity_detection 
+This project uses t-SNE to plot faces of paintings using face recognition software
 We are expecting the t-SNE plot our algorithm is creating to show different clusters of facial data analysis for artists with different styles with the following evaluation matrices:
 The more scattered the clusters are, the smaller the similarity correlation between the compared clusters is. The more united one specific cluster is, the higher the similarity correlation within this one cluster is.
 
